@@ -1,0 +1,28 @@
+//Link Types
+Switchable__SendTo
+    -Sends a trigger to an object (Dialogue, to time a platform for when to move along a rail, etc.)
+
+ToSwitchAllDead
+    -Send an enemies death to a SwitchAllDead
+
+SwitchableParams__SendTo
+    -???
+
+ItemDropable_Item
+    -Sets the object to drop from a box.
+
+RailableParams__Rail
+    -Attaches a "lift" (generic railable object) to a rail
+    -Might work with other objects as well.
+
+AutoWarpPointLink
+    -To link an AutoWarpPoint to another
+
+Target
+    -The target obj for a Obj_CompassWithNavigator
+
+CheckPointArea
+    -Link from a Obj_JumpPoint to activate from a CheckPointArea (GenericTeamObj Area).
+
+HideEnemy
+    -Links from an Obj_Box00S or L, hides an enemy in the box

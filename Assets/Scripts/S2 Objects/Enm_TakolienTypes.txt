@@ -1,0 +1,11 @@
+//Types of Takolien
+//Move
+Enm_TakolienEasyShield
+    -Moving takolien with shield
+
+//Fix
+Enm_TakolienFixEasyShield
+    -Stationary takolien with shield
+
+Enm_TakolienFixedBounceShot
+    -Stationary Takolien that fires two bouncy shots at once.

@@ -1,0 +1,14 @@
+//Names of Colectibles
+Obj_AncientDocument
+   -Sunken Scroll
+
+Obj_WeaponBuffDocument
+    -Sardinium
+
+Obj_IkuraBottle
+    -10 Sphere
+
+Obj_DoorKey00
+    -Key for vault
+Obj_Armor
+    -Armor

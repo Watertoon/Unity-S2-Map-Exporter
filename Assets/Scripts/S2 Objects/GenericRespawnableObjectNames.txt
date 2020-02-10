@@ -1,0 +1,9 @@
+//Generic Objects with Switchable params
+Obj_RogPoint
+   - A mini Zapfish
+
+Obj_KeyTreasureBox
+    -Cylindrical vault openable with Obj_DoorKey00
+
+LinkDstKiller
+   - Kills linked objects

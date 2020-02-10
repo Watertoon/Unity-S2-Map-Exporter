@@ -1,0 +1,9 @@
+//Covers items not found in generic team object model folder
+PaintedArea
+	-Zone, paints area with specified teams ink over specified area
+Obj_RailEffectObj
+	-Link to a rail with Rail, draws a dashed line over the rail path
+RivalRespawnPos
+	-Link to an Octoling with "Spawn", Superjumps an Octoling to this point when triggering a isHiddenWait Octoling
+Obj_Goal
+    -Zapfish
